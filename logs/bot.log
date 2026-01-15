@@ -1,0 +1,978 @@
+2026-01-15 19:06:20 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:09:13 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:09:13 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:09:13 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:09:13 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:09:13 | INFO     | core.portfolio:_start_new_day:129 | 📅 Начат новый торговый день 2026-01-15. Депозит: 10000.00₽
+2026-01-15 19:09:13 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:09:19 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:10:19 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:10:19 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:10:19 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:10:19 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:10:19 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:10:19 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:10:20 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:13:04 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:13:04 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:13:04 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:13:04 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:13:04 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:13:04 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:13:04 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:13:05 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:14:33 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:14:33 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:14:33 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:14:33 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:14:33 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:14:33 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:14:33 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:14:34 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:14:34 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:14:34 | INFO     | analysis.technical.psychological:__init__:53 | Инициализация анализатора психологических уровней
+2026-01-15 19:18:12 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:18:12 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:18:12 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:18:12 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:18:12 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:18:12 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:18:12 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:18:13 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:18:13 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:20:52 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:20:52 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:20:52 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:20:52 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:20:52 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:20:52 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:20:52 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:20:53 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:20:53 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:20:53 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:20:53 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:20:53 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:20:53 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:26:40 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:26:40 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:26:40 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:26:40 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:26:40 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:26:40 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:26:40 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:26:41 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:26:41 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:26:41 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:26:41 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:26:41 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:26:41 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:26:41 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:26:41 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:28:31 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:28:31 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:28:31 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:28:31 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:28:31 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:28:31 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:28:31 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:28:31 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:28:31 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:28:31 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:28:31 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:28:31 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:28:31 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:28:31 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:28:31 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:28:31 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:28:32 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:28:32 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:28:32 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:29:56 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:29:56 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:29:56 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:29:56 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:29:56 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:29:56 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:29:56 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:29:57 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:29:57 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:29:57 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:29:57 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:29:57 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:29:57 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:29:57 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:29:57 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:29:57 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:29:57 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:29:57 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:29:57 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:29:57 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:29:57 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:29:57 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:29:57 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 19:29:57 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 19:32:45 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:32:45 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:32:45 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:32:45 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:32:45 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:32:45 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:32:45 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:32:46 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:32:46 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:32:46 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:32:46 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:32:46 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:32:46 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:32:46 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:32:46 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:32:46 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:32:46 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:32:46 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:32:46 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:32:46 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:32:46 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:32:46 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:32:46 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 19:32:46 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 19:32:46 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:32:46 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 19:32:46 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 19:34:28 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:34:28 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:34:28 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:34:28 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:34:28 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:34:28 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:34:28 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:34:29 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:34:29 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:34:29 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:34:29 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:34:29 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:34:29 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:34:29 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:34:29 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:34:29 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:34:29 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:34:29 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:34:29 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:34:29 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:34:29 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:34:29 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:34:29 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 19:34:29 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 19:34:29 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:34:29 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 19:34:29 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 19:35:21 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:35:21 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:35:21 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:35:21 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:35:21 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:35:21 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:35:21 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:35:21 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:35:21 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:35:21 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:35:21 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:35:21 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:35:21 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:35:21 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:35:21 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:35:21 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:35:21 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:35:21 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:35:21 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:35:21 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:35:21 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:35:21 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:35:21 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 19:35:21 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 19:35:21 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:35:21 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 19:35:21 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 19:36:03 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:36:03 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:36:03 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:36:03 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:36:03 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:36:03 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:36:03 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:36:03 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:36:03 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:36:03 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:36:03 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:36:03 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:36:03 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:36:03 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:36:03 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:36:03 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:36:03 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:36:03 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:36:03 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:36:03 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:36:03 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:36:03 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:36:03 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 19:36:03 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 19:36:03 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:36:03 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 19:36:03 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 19:36:04 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'users'
+2026-01-15 19:36:04 | ERROR    | core.api_client:test_connection:169 | ❌ Ошибка подключения к T-Tech API: 'Client' object has no attribute 'users'
+2026-01-15 19:44:17 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 19:44:17 | INFO     | core.api_client:__init__:35 | Инициализация T-Tech API клиента
+2026-01-15 19:44:17 | INFO     | core.api_client:__init__:36 |   Режим: ПЕСОЧНИЦА
+2026-01-15 19:44:17 | INFO     | core.api_client:__init__:37 |   Target: sandbox-invest-public-api.tinkoff.ru:443
+2026-01-15 19:44:17 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 19:44:17 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 19:44:17 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 19:44:17 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:44:17 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:44:17 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:44:17 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 19:44:17 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 19:44:17 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:44:17 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 19:44:17 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:44:17 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 19:44:17 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:44:17 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 19:44:17 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:44:17 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 19:44:17 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:44:17 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 19:44:17 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 19:44:17 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 19:44:17 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 19:44:17 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 19:44:17 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 19:44:17 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ Подключение к T-Tech API установлено
+2026-01-15 19:44:17 | WARNING  | core.api_client:test_connection:165 | ⚠️  API методы могут отличаться: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | INFO     | core.api_client:verify_all_instruments:105 | Проверка доступности всех инструментов через T-Tech API...
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента IMOEXF: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ IMOEXF: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента MXI-3.26: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ MXI-3.26: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента MIX-3.26: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ MIX-3.26: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента RTS-3.26: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ RTS-3.26: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента RTSM-3.26: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ RTSM-3.26: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента CNY-3.26: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ CNY-3.26: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента CNYRUBF: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ CNYRUBF: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента Si-3.26: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ Si-3.26: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента USDRUBF: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ USDRUBF: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента Eu-3.26: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ Eu-3.26: недоступен для торговли
+2026-01-15 19:44:17 | ERROR    | core.api_client:connect:50 | Ошибка подключения к T-Tech API: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | ERROR    | core.api_client:find_real_instrument:100 | Ошибка при поиске инструмента EURRUBF: 'Client' object has no attribute 'instruments'
+2026-01-15 19:44:17 | WARNING  | core.api_client:verify_all_instruments:117 | ✗ EURRUBF: недоступен для торговли
+2026-01-15 19:44:17 | INFO     | core.api_client:verify_all_instruments:122 | Доступно инструментов: 0/11
+2026-01-15 20:14:33 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 20:14:33 | INFO     | core.api_client:__init__:23 | Инициализация T-Tech API клиента
+2026-01-15 20:14:33 | INFO     | core.api_client:__init__:24 |   Режим: ПЕСОЧНИЦА
+2026-01-15 20:14:33 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 20:14:33 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 20:14:33 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 20:14:33 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 20:14:33 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 20:14:33 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 20:14:33 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 20:14:33 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 20:14:33 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 20:14:33 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 20:14:33 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 20:14:33 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 20:14:33 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 20:14:33 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 20:14:33 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 20:14:33 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 20:14:33 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 20:14:33 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 20:14:33 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 20:14:33 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 20:14:33 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 20:14:33 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 20:14:33 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 20:14:34 | ERROR    | core.api_client:test_connection:147 | ❌ Ошибка подключения: (<StatusCode.UNAUTHENTICATED: (16, 'unauthenticated')>, '40003', Metadata(tracking_id='4381c40132685ef77e12de7a279a2051', ratelimit_limit='100, 100;w=60', ratelimit_remaining=99, ratelimit_reset=26, message='Authentication token is missing or invalid'))
+2026-01-15 20:56:38 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 20:56:38 | INFO     | core.api_client:__init__:23 | Инициализация T-Tech API клиента
+2026-01-15 20:56:38 | INFO     | core.api_client:__init__:24 |   Режим: ПЕСОЧНИЦА
+2026-01-15 20:56:38 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 20:56:38 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 20:56:39 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 20:56:39 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 20:56:39 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 20:56:39 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 20:56:39 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 20:56:39 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 20:56:39 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 20:56:39 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 20:56:39 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 20:56:39 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 20:56:39 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 20:56:39 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 20:56:39 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 20:56:39 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 20:56:39 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 20:56:39 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 20:56:39 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 20:56:39 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 20:56:39 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 20:56:39 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 20:56:39 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 20:56:39 | ERROR    | core.api_client:test_connection:147 | ❌ Ошибка подключения: (<StatusCode.UNAUTHENTICATED: (16, 'unauthenticated')>, '40003', Metadata(tracking_id='9e3e98dbec83c1d96737f7669c4fe198', ratelimit_limit='100, 100;w=60', ratelimit_remaining=99, ratelimit_reset=21, message='Authentication token is missing or invalid'))
+2026-01-15 21:11:57 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 21:11:57 | INFO     | core.api_client:__init__:31 | Инициализация T-Tech API клиента
+2026-01-15 21:11:57 | INFO     | core.api_client:__init__:32 |   Режим: БОЕВОЙ
+2026-01-15 21:11:57 | INFO     | core.api_client:__init__:33 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 21:11:57 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 21:11:57 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 21:11:57 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 21:11:57 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:11:57 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:11:57 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:11:57 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:11:57 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:11:57 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:11:57 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:11:57 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:11:57 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:11:57 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:11:57 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:11:57 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:11:57 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:11:57 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:11:57 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:11:57 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 21:11:57 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 21:11:57 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:11:57 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 21:11:57 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 21:11:57 | ERROR    | core.api_client:_get_client:43 | Ошибка подключения: 'Client' object has no attribute 'users'
+2026-01-15 21:11:57 | ERROR    | core.api_client:test_connection:424 | ❌ Ошибка подключения: 'Client' object has no attribute 'users'
+2026-01-15 21:15:01 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 21:15:01 | INFO     | core.api_client:__init__:31 | Инициализация T-Tech API клиента
+2026-01-15 21:15:01 | INFO     | core.api_client:__init__:32 |   Режим: БОЕВОЙ
+2026-01-15 21:15:01 | INFO     | core.api_client:__init__:33 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 21:15:01 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 21:15:01 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 21:15:01 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 21:15:01 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:15:01 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:15:01 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:15:01 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:15:01 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:15:01 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:15:01 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:15:01 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:15:01 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:15:01 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:15:01 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:15:01 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:15:01 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:15:01 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:15:01 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:15:01 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 21:15:01 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 21:15:01 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:15:01 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 21:15:01 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 21:15:02 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ Подключение к T-Tech API успешно
+2026-01-15 21:15:02 | INFO     | core.api_client:test_connection_func:414 |   Счет: Кто  я ... ? - Спекулянт! (2071983460) - 1
+2026-01-15 21:15:02 | INFO     | core.api_client:test_connection_func:414 |   Счет: кратко срок(1день-1неделя) (2039316047) - 1
+2026-01-15 21:15:02 | INFO     | core.api_client:test_connection_func:414 |   Счет: средне срок (2063476253) - 1
+2026-01-15 21:15:02 | INFO     | core.api_client:verify_all_instruments:429 | Проверка инструментов через API...
+2026-01-15 21:15:02 | DEBUG    | core.api_client:_cache_instrument:115 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 21:15:02 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ IMOEXF: доступен (FIGI: FUTIMOEXF000)
+2026-01-15 21:15:03 | ERROR    | core.api_client:_execute_with_client:41 | Ошибка выполнения операции: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:03 | ERROR    | core.api_client:find_real_instrument:88 | Ошибка поиска MXI-3.26: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:03 | WARNING  | core.api_client:verify_all_instruments:444 | ❌ MXI-3.26: недоступен
+2026-01-15 21:15:04 | ERROR    | core.api_client:_execute_with_client:41 | Ошибка выполнения операции: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:04 | ERROR    | core.api_client:find_real_instrument:88 | Ошибка поиска MIX-3.26: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:04 | WARNING  | core.api_client:verify_all_instruments:444 | ❌ MIX-3.26: недоступен
+2026-01-15 21:15:05 | ERROR    | core.api_client:_execute_with_client:41 | Ошибка выполнения операции: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:05 | ERROR    | core.api_client:find_real_instrument:88 | Ошибка поиска RTS-3.26: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:05 | WARNING  | core.api_client:verify_all_instruments:444 | ❌ RTS-3.26: недоступен
+2026-01-15 21:15:06 | ERROR    | core.api_client:_execute_with_client:41 | Ошибка выполнения операции: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:06 | ERROR    | core.api_client:find_real_instrument:88 | Ошибка поиска RTSM-3.26: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:06 | WARNING  | core.api_client:verify_all_instruments:444 | ❌ RTSM-3.26: недоступен
+2026-01-15 21:15:07 | ERROR    | core.api_client:_execute_with_client:41 | Ошибка выполнения операции: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:07 | ERROR    | core.api_client:find_real_instrument:88 | Ошибка поиска CNY-3.26: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:07 | WARNING  | core.api_client:verify_all_instruments:444 | ❌ CNY-3.26: недоступен
+2026-01-15 21:15:08 | DEBUG    | core.api_client:_cache_instrument:115 | Кэширован: CNYRUBF -> FUTCNYRUBF00
+2026-01-15 21:15:08 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ CNYRUBF: доступен (FIGI: FUTCNYRUBF00)
+2026-01-15 21:15:09 | ERROR    | core.api_client:_execute_with_client:41 | Ошибка выполнения операции: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:09 | ERROR    | core.api_client:find_real_instrument:88 | Ошибка поиска Si-3.26: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:09 | WARNING  | core.api_client:verify_all_instruments:444 | ❌ Si-3.26: недоступен
+2026-01-15 21:15:09 | DEBUG    | core.api_client:_cache_instrument:115 | Кэширован: USDRUBF -> FUTUSDRUBF00
+2026-01-15 21:15:09 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ USDRUBF: доступен (FIGI: FUTUSDRUBF00)
+2026-01-15 21:15:10 | ERROR    | core.api_client:_execute_with_client:41 | Ошибка выполнения операции: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:10 | ERROR    | core.api_client:find_real_instrument:88 | Ошибка поиска Eu-3.26: 'InstrumentShort' object has no attribute 'min_price_increment'
+2026-01-15 21:15:10 | WARNING  | core.api_client:verify_all_instruments:444 | ❌ Eu-3.26: недоступен
+2026-01-15 21:15:11 | DEBUG    | core.api_client:_cache_instrument:115 | Кэширован: EURRUBF -> FUTEURRUBF00
+2026-01-15 21:15:11 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ EURRUBF: доступен (FIGI: FUTEURRUBF00)
+2026-01-15 21:15:11 | INFO     | core.api_client:verify_all_instruments:447 | 📊 Доступно: 4/11 инструментов
+2026-01-15 21:15:11 | DEBUG    | core.api_client:get_candles_func:164 | Получено свечей IMOEXF: 8 шт.
+2026-01-15 21:15:11 | ERROR    | core.api_client:_execute_with_client:41 | Ошибка выполнения операции: 'GetOrderBookResponse' object has no attribute 'time'
+2026-01-15 21:15:11 | ERROR    | core.api_client:get_order_book:210 | Ошибка получения стакана IMOEXF: 'GetOrderBookResponse' object has no attribute 'time'
+2026-01-15 21:15:12 | INFO     | core.api_client:_get_account_id:57 | Выбран счет: Кто  я ... ? - Спекулянт! (2071983460)
+2026-01-15 21:15:12 | INFO     | core.api_client:get_portfolio_func:268 | Получен портфель, позиций: 1
+2026-01-15 21:15:13 | DEBUG    | core.api_client:get_orders_func:392 | Получено заявок: 0
+2026-01-15 21:21:35 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 21:21:35 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 21:21:35 | INFO     | core.api_client:__init__:31 |   Режим: БОЕВОЙ
+2026-01-15 21:21:35 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 21:21:35 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 21:21:35 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 21:21:35 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 21:21:36 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:21:36 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:21:36 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:21:36 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:21:36 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:21:36 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:21:36 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:21:36 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:21:36 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:21:36 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:21:36 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:21:36 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:21:36 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:21:36 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:21:36 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:21:36 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 21:21:36 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 21:21:36 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:21:36 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 21:21:36 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 21:21:36 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ Подключение к T-Tech API успешно
+2026-01-15 21:21:36 | INFO     | core.api_client:test_connection_func:427 |   Счет: Кто  я ... ? - Спекулянт! (2071983460) - 1
+2026-01-15 21:21:36 | INFO     | core.api_client:test_connection_func:427 |   Счет: кратко срок(1день-1неделя) (2039316047) - 1
+2026-01-15 21:21:36 | INFO     | core.api_client:test_connection_func:427 |   Счет: средне срок (2063476253) - 1
+2026-01-15 21:21:37 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 21:21:37 | DEBUG    | core.api_client:get_candles_func:173 | Получено свечей IMOEXF: 17 шт.
+2026-01-15 21:21:37 | DEBUG    | core.api_client:get_order_book_func:217 | Получен стакан IMOEXF, глубина: 3
+2026-01-15 21:21:38 | INFO     | core.api_client:_get_account_id:56 | Выбран счет: Кто  я ... ? - Спекулянт! (2071983460)
+2026-01-15 21:21:38 | INFO     | core.api_client:get_portfolio_func:281 | Получен портфель, позиций: 1
+2026-01-15 21:22:59 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 21:22:59 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 21:22:59 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 21:22:59 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 21:22:59 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 21:22:59 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 21:22:59 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 21:23:00 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:23:00 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:23:00 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:23:00 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:23:00 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:23:00 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:23:00 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:23:00 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:23:00 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:23:00 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:23:00 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:23:00 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:23:00 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:23:00 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:23:00 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:23:00 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 21:23:00 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 21:23:00 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:23:00 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 21:23:00 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 21:23:00 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ Подключение к T-Tech API успешно
+2026-01-15 21:23:00 | INFO     | core.api_client:test_connection_func:427 |   Счет: Кто  я ... ? - Спекулянт! (2071983460) - 1
+2026-01-15 21:23:00 | INFO     | core.api_client:test_connection_func:427 |   Счет: кратко срок(1день-1неделя) (2039316047) - 1
+2026-01-15 21:23:00 | INFO     | core.api_client:test_connection_func:427 |   Счет: средне срок (2063476253) - 1
+2026-01-15 21:23:01 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 21:23:01 | DEBUG    | core.api_client:get_candles_func:173 | Получено свечей IMOEXF: 17 шт.
+2026-01-15 21:23:01 | DEBUG    | core.api_client:get_order_book_func:217 | Получен стакан IMOEXF, глубина: 3
+2026-01-15 21:23:02 | INFO     | core.api_client:_get_account_id:56 | Выбран счет: Кто  я ... ? - Спекулянт! (2071983460)
+2026-01-15 21:23:02 | INFO     | core.api_client:get_portfolio_func:281 | Получен портфель, позиций: 1
+2026-01-15 21:36:19 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 21:36:19 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 21:36:19 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 21:36:19 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 21:36:19 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 21:36:19 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 21:36:19 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 21:36:20 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:36:20 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:36:20 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:36:20 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:36:20 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:36:20 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:36:20 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:36:20 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:36:20 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:36:20 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:36:20 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:36:20 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:36:20 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:36:20 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:36:20 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:36:20 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 21:36:20 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 21:36:20 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:36:20 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 21:36:20 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 21:36:20 | INFO     | trading.position_sizing:__init__:46 | Инициализация калькулятора размера позиции
+2026-01-15 21:36:20 | INFO     | trading.risk_manager:__init__:56 | Инициализация менеджера рисков
+2026-01-15 21:36:20 | INFO     | trading.order_executor:__init__:66 | Инициализация исполнителя ордеров
+2026-01-15 21:36:20 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ Подключение к T-Tech API успешно
+2026-01-15 21:36:20 | INFO     | core.api_client:test_connection_func:427 |   Счет: Кто  я ... ? - Спекулянт! (2071983460) - 1
+2026-01-15 21:36:20 | INFO     | core.api_client:test_connection_func:427 |   Счет: кратко срок(1день-1неделя) (2039316047) - 1
+2026-01-15 21:36:20 | INFO     | core.api_client:test_connection_func:427 |   Счет: средне срок (2063476253) - 1
+2026-01-15 21:36:21 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 21:36:21 | INFO     | core.api_client:_get_account_id:56 | Выбран счет: Кто  я ... ? - Спекулянт! (2071983460)
+2026-01-15 21:36:21 | INFO     | core.api_client:get_portfolio_func:281 | Получен портфель, позиций: 1
+2026-01-15 21:39:34 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 21:39:34 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 21:39:34 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 21:39:34 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 21:39:34 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 21:39:34 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 21:39:34 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 21:39:34 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:39:34 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:39:34 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:39:34 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:39:34 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:39:34 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:39:34 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:39:34 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:39:34 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:39:34 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:39:34 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:39:34 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:39:34 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:39:35 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:39:35 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:39:35 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 21:39:35 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 21:39:35 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:39:35 | INFO     | analysis.analyzer:__init__:35 | Инициализация комплексного анализатора рынка
+2026-01-15 21:39:35 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 21:39:35 | INFO     | trading.position_sizing:__init__:46 | Инициализация калькулятора размера позиции
+2026-01-15 21:39:35 | INFO     | trading.risk_manager:__init__:56 | Инициализация менеджера рисков
+2026-01-15 21:39:35 | INFO     | trading.order_executor:__init__:66 | Инициализация исполнителя ордеров
+2026-01-15 21:39:35 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 21:39:36 | DEBUG    | core.api_client:get_candles_func:173 | Получено свечей IMOEXF: 62 шт.
+2026-01-15 21:39:36 | ERROR    | analysis.analyzer:comprehensive_analysis:146 | ❌ Ошибка анализа IMOEXF: name 'TimeFrame' is not defined
+2026-01-15 21:48:21 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 21:48:21 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 21:48:21 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 21:48:21 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 21:48:21 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 21:48:21 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 21:48:21 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 21:48:21 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:48:21 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:48:21 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:48:21 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:48:21 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:48:21 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:48:21 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:48:21 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:48:21 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:48:21 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:48:21 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:48:21 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:48:21 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:48:21 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:48:21 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:48:21 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 21:48:21 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 21:48:21 | INFO     | data.history:__init__:47 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:48:21 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 21:48:21 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 21:48:22 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 21:48:23 | INFO     | data.history:load_data:74 | Загрузка данных IMOEXF (1h) за 30 дней...
+2026-01-15 21:48:23 | ERROR    | data.history:_fetch_from_api:160 | Ошибка API при загрузке данных: 'TTechInvestAPIClient' object has no attribute 'connect'
+2026-01-15 21:48:23 | WARNING  | data.history:load_data:86 | Нет данных для IMOEXF (1h)
+2026-01-15 21:48:23 | ERROR    | analysis.analyzer:comprehensive_analysis:142 | ❌ Ошибка анализа IMOEXF: 'NoneType' object has no attribute 'empty'
+2026-01-15 21:57:17 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 21:57:17 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 21:57:17 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 21:57:17 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 21:57:17 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 21:57:17 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 21:57:17 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 21:57:18 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:57:18 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:57:18 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:57:18 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 21:57:18 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 21:57:18 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:57:18 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 21:57:18 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:57:18 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 21:57:18 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:57:18 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 21:57:18 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:57:18 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 21:57:18 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:57:18 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 21:57:18 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 21:57:18 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 21:57:18 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 21:57:18 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 21:57:18 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 21:57:18 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 21:57:19 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1h) за 30 дней...
+2026-01-15 21:57:19 | ERROR    | data.history:load_data:102 | Ошибка загрузки данных для IMOEXF: 'numpy.ndarray' object has no attribute 'rolling'
+2026-01-15 21:57:19 | ERROR    | analysis.analyzer:comprehensive_analysis:142 | ❌ Ошибка анализа IMOEXF: 'NoneType' object has no attribute 'empty'
+2026-01-15 22:01:46 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:01:46 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:01:46 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:01:46 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:01:46 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:01:46 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:01:46 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 22:01:46 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:01:46 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:01:46 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 22:01:46 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:01:46 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 22:01:46 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:01:46 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:01:46 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:01:46 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:01:46 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:01:46 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:01:46 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:01:46 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:01:46 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:01:46 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:01:46 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 22:01:46 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 22:01:46 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:01:46 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:01:46 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 22:03:34 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:03:34 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:03:34 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:03:34 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:03:34 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:03:34 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:03:34 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 22:03:35 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:03:35 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:03:35 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 22:03:35 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:03:35 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 22:03:35 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:03:35 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:03:35 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:03:35 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:03:35 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:03:35 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:03:35 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:03:35 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:03:35 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:03:35 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:03:35 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 22:03:35 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 22:03:35 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:03:35 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:03:35 | INFO     | core.scheduler:__init__:35 | Инициализация планировщика анализа
+2026-01-15 22:03:35 | INFO     | trading.position_sizing:__init__:46 | Инициализация калькулятора размера позиции
+2026-01-15 22:03:35 | INFO     | trading.risk_manager:__init__:56 | Инициализация менеджера рисков
+2026-01-15 22:03:35 | INFO     | trading.order_executor:__init__:66 | Инициализация исполнителя ордеров
+2026-01-15 22:05:27 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:05:27 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:05:27 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:05:27 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:05:27 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:05:27 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:05:27 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 22:12:01 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:12:01 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:12:01 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:12:01 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:12:01 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:12:01 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:12:01 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 22:12:01 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:12:01 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:12:01 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:12:01 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:12:02 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ Подключение к T-Tech API успешно
+2026-01-15 22:12:02 | INFO     | core.api_client:test_connection_func:427 |   Счет: Кто  я ... ? - Спекулянт! (2071983460) - 1
+2026-01-15 22:12:02 | INFO     | core.api_client:test_connection_func:427 |   Счет: кратко срок(1день-1неделя) (2039316047) - 1
+2026-01-15 22:12:02 | INFO     | core.api_client:test_connection_func:427 |   Счет: средне срок (2063476253) - 1
+2026-01-15 22:12:02 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:12:02 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1h) за 7 дней...
+2026-01-15 22:12:02 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 22:12:03 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 81 строк, 28 колонок
+2026-01-15 22:12:03 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_1h.pkl
+2026-01-15 22:12:03 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 81 свечей для IMOEXF (1h)
+2026-01-15 22:12:03 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:12:03 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 22:12:03 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:12:03 | INFO     | analysis.technical.psychological:__init__:27 | Инициализация анализатора психологических уровней
+2026-01-15 22:12:03 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:12:03 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:12:03 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:12:03 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:12:03 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:12:03 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:12:03 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:12:03 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:12:03 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:12:03 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:12:03 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 22:12:03 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 22:12:03 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:12:03 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:12:03 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:12:03 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:12:03 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1h) за 30 дней...
+2026-01-15 22:12:03 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 333 строк, 28 колонок
+2026-01-15 22:12:03 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_1h.pkl
+2026-01-15 22:12:03 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 333 свечей для IMOEXF (1h)
+2026-01-15 22:12:03 | DEBUG    | analysis.patterns.basic_patterns:detect_all_patterns:96 | Обнаружено 2 паттернов (из 2 возможных)
+2026-01-15 22:12:03 | DEBUG    | analysis.elliott.waves:analyze:113 | Волновой анализ: Импульс 5-3-5, уверенность: 80.0%, сигнал: NEUTRAL
+2026-01-15 22:12:03 | DEBUG    | analysis.gaps.analyzer:analyze:119 | Анализ гэпов: найдено 5 гэпов, сигнал: NEUTRAL, уверенность: 60.0%
+2026-01-15 22:12:03 | DEBUG    | analysis.imbalances.analyzer:analyze:108 | Анализ имбалансов: найдено 382 имбалансов, сигнал: BUY, сила: 41.7%
+2026-01-15 22:12:03 | ERROR    | analysis.analyzer:_analyze_psychological:406 | Ошибка анализа психологических уровней: 'PsychologicalLevels' object has no attribute 'get_psychological_levels'
+2026-01-15 22:12:03 | DEBUG    | analysis.orderbook.analyzer:analyze:107 | Анализ стакана IMOEXF: спред 0.20%, имбаланс +9.1%, сигнал: NEUTRAL
+2026-01-15 22:12:03 | DEBUG    | analysis.probability_calculator:calculate_probability:92 | Начало расчета вероятности
+2026-01-15 22:12:03 | DEBUG    | analysis.probability_calculator:calculate_probability:112 | Корректировка вероятности из-за низкой согласованности: 47.83%
+2026-01-15 22:12:03 | INFO     | analysis.probability_calculator:calculate_probability:137 | Рассчитана вероятность: 12.0% (Категория: NONE, Согласованность: 48%)
+2026-01-15 22:12:03 | INFO     | analysis.analyzer:comprehensive_analysis:135 | ✅ Анализ IMOEXF 1h завершен. Вероятность: 12.0%, Сигнал: BUY
+2026-01-15 22:22:29 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:22:29 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:22:29 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:22:29 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:22:29 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:22:29 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:22:29 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 22:22:29 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:22:29 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:22:29 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:22:29 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:22:30 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ Подключение к T-Tech API успешно
+2026-01-15 22:22:30 | INFO     | core.api_client:test_connection_func:427 |   Счет: Кто  я ... ? - Спекулянт! (2071983460) - 1
+2026-01-15 22:22:30 | INFO     | core.api_client:test_connection_func:427 |   Счет: кратко срок(1день-1неделя) (2039316047) - 1
+2026-01-15 22:22:30 | INFO     | core.api_client:test_connection_func:427 |   Счет: средне срок (2063476253) - 1
+2026-01-15 22:22:30 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:22:30 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1h) за 7 дней...
+2026-01-15 22:22:30 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 22:22:31 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 81 строк, 28 колонок
+2026-01-15 22:22:31 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_1h.pkl
+2026-01-15 22:22:31 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 81 свечей для IMOEXF (1h)
+2026-01-15 22:22:31 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:22:31 | INFO     | analysis.technical.psychological:__init__:26 | Инициализация анализатора психологических уровней
+2026-01-15 22:22:31 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:22:31 | INFO     | analysis.technical.psychological:__init__:26 | Инициализация анализатора психологических уровней
+2026-01-15 22:22:31 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:22:31 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:22:31 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:22:31 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:22:31 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:22:31 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:22:31 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:22:31 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:22:31 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:22:31 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:22:31 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 22:22:31 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 22:22:31 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:22:31 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:22:31 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:22:31 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:22:31 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1h) за 30 дней...
+2026-01-15 22:22:31 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 333 строк, 28 колонок
+2026-01-15 22:22:31 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_1h.pkl
+2026-01-15 22:22:31 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 333 свечей для IMOEXF (1h)
+2026-01-15 22:22:31 | DEBUG    | analysis.patterns.basic_patterns:detect_all_patterns:96 | Обнаружено 2 паттернов (из 2 возможных)
+2026-01-15 22:22:31 | DEBUG    | analysis.elliott.waves:analyze:113 | Волновой анализ: Импульс 5-3-5, уверенность: 80.0%, сигнал: NEUTRAL
+2026-01-15 22:22:31 | DEBUG    | analysis.gaps.analyzer:analyze:119 | Анализ гэпов: найдено 5 гэпов, сигнал: NEUTRAL, уверенность: 60.0%
+2026-01-15 22:22:31 | DEBUG    | analysis.imbalances.analyzer:analyze:108 | Анализ имбалансов: найдено 381 имбалансов, сигнал: BUY, сила: 41.7%
+2026-01-15 22:22:31 | ERROR    | analysis.analyzer:_analyze_psychological:406 | Ошибка анализа психологических уровней: list index out of range
+2026-01-15 22:22:31 | DEBUG    | analysis.orderbook.analyzer:analyze:107 | Анализ стакана IMOEXF: спред 0.20%, имбаланс +9.1%, сигнал: NEUTRAL
+2026-01-15 22:22:31 | DEBUG    | analysis.probability_calculator:calculate_probability:92 | Начало расчета вероятности
+2026-01-15 22:22:31 | DEBUG    | analysis.probability_calculator:calculate_probability:112 | Корректировка вероятности из-за низкой согласованности: 47.17%
+2026-01-15 22:22:31 | INFO     | analysis.probability_calculator:calculate_probability:137 | Рассчитана вероятность: 12.2% (Категория: NONE, Согласованность: 47%)
+2026-01-15 22:22:31 | INFO     | analysis.analyzer:comprehensive_analysis:135 | ✅ Анализ IMOEXF 1h завершен. Вероятность: 12.2%, Сигнал: BUY
+2026-01-15 22:27:38 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:27:38 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:27:38 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:27:38 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:27:38 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:27:38 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:27:38 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 22:27:38 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:27:38 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:27:38 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:27:38 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:27:39 | INFO     | utils.logger:_custom_success:94 | ✅ ✅ Подключение к T-Tech API успешно
+2026-01-15 22:27:39 | INFO     | core.api_client:test_connection_func:427 |   Счет: Кто  я ... ? - Спекулянт! (2071983460) - 1
+2026-01-15 22:27:39 | INFO     | core.api_client:test_connection_func:427 |   Счет: кратко срок(1день-1неделя) (2039316047) - 1
+2026-01-15 22:27:39 | INFO     | core.api_client:test_connection_func:427 |   Счет: средне срок (2063476253) - 1
+2026-01-15 22:27:39 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:27:39 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1h) за 7 дней...
+2026-01-15 22:27:40 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 22:27:40 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 81 строк, 28 колонок
+2026-01-15 22:27:40 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_1h.pkl
+2026-01-15 22:27:40 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 81 свечей для IMOEXF (1h)
+2026-01-15 22:27:40 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:27:40 | INFO     | analysis.technical.psychological:__init__:26 | Инициализация анализатора психологических уровней
+2026-01-15 22:27:40 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:27:40 | INFO     | analysis.technical.psychological:__init__:26 | Инициализация анализатора психологических уровней
+2026-01-15 22:27:40 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:27:40 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:27:40 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:27:40 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:27:40 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:27:40 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:27:40 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:27:40 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:27:40 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:27:40 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:27:40 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 22:27:40 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 22:27:40 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:27:40 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:27:40 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:27:40 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:27:40 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1h) за 30 дней...
+2026-01-15 22:27:41 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 333 строк, 28 колонок
+2026-01-15 22:27:41 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_1h.pkl
+2026-01-15 22:27:41 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 333 свечей для IMOEXF (1h)
+2026-01-15 22:27:41 | DEBUG    | analysis.patterns.basic_patterns:detect_all_patterns:96 | Обнаружено 2 паттернов (из 2 возможных)
+2026-01-15 22:27:41 | DEBUG    | analysis.elliott.waves:analyze:113 | Волновой анализ: Импульс 5-3-5, уверенность: 80.0%, сигнал: NEUTRAL
+2026-01-15 22:27:41 | DEBUG    | analysis.gaps.analyzer:analyze:119 | Анализ гэпов: найдено 5 гэпов, сигнал: NEUTRAL, уверенность: 60.0%
+2026-01-15 22:27:41 | DEBUG    | analysis.imbalances.analyzer:analyze:108 | Анализ имбалансов: найдено 381 имбалансов, сигнал: BUY, сила: 41.7%
+2026-01-15 22:27:41 | DEBUG    | analysis.orderbook.analyzer:analyze:107 | Анализ стакана IMOEXF: спред 0.20%, имбаланс +9.1%, сигнал: NEUTRAL
+2026-01-15 22:27:41 | DEBUG    | analysis.probability_calculator:calculate_probability:92 | Начало расчета вероятности
+2026-01-15 22:27:41 | DEBUG    | analysis.probability_calculator:calculate_probability:112 | Корректировка вероятности из-за низкой согласованности: 40.66%
+2026-01-15 22:27:41 | INFO     | analysis.probability_calculator:calculate_probability:137 | Рассчитана вероятность: 11.8% (Категория: NONE, Согласованность: 41%)
+2026-01-15 22:27:41 | INFO     | analysis.analyzer:comprehensive_analysis:135 | ✅ Анализ IMOEXF 1h завершен. Вероятность: 11.8%, Сигнал: NEUTRAL
+2026-01-15 22:32:26 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:32:26 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:32:26 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:32:26 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:32:26 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:32:26 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:32:26 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 22:36:28 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:36:28 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:36:28 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:36:28 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:36:28 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:36:28 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:36:28 | INFO     | core.time_manager:__init__:21 | Настроено 3 торговых сессий
+2026-01-15 22:38:35 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:38:35 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:38:35 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:38:35 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:41:11 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:41:11 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:41:11 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:41:11 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:41:11 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:41:11 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:42:39 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:42:39 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:42:39 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:42:39 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:42:39 | DEBUG    | core.portfolio:_load_stats:70 | Загружена история из C:\Users\vladp\Desktop\futures_bot\data\portfolio_stats.json
+2026-01-15 22:42:39 | INFO     | core.portfolio:__init__:61 | Инициализация портфеля. Депозит: 10000.00₽
+2026-01-15 22:44:03 | INFO     | utils.logger:_setup_file_logging:87 | Логирование в файл настроено: logs\bot.log
+2026-01-15 22:44:03 | INFO     | core.api_client:__init__:30 | Инициализация T-Tech API клиента
+2026-01-15 22:44:03 | INFO     | core.api_client:__init__:31 |   Режим: ПЕСОЧНИЦА
+2026-01-15 22:44:03 | INFO     | core.api_client:__init__:32 |   Токен: t.UfgXjR30m3lDr2z_Gp...
+2026-01-15 22:44:03 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:44:03 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:44:03 | INFO     | analysis.technical.psychological:__init__:26 | Инициализация анализатора психологических уровней
+2026-01-15 22:44:03 | INFO     | analysis.technical.indicators:__init__:26 | Инициализация технических индикаторов
+2026-01-15 22:44:03 | INFO     | analysis.technical.psychological:__init__:26 | Инициализация анализатора психологических уровней
+2026-01-15 22:44:03 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:44:03 | INFO     | analysis.patterns.basic_patterns:__init__:66 | Инициализация детектора графических паттернов (полная версия)
+2026-01-15 22:44:03 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:44:03 | INFO     | analysis.elliott.waves:__init__:53 | Инициализация анализатора волн Эллиота
+2026-01-15 22:44:03 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:44:03 | INFO     | analysis.gaps.analyzer:__init__:52 | Инициализация анализатора гэпов
+2026-01-15 22:44:03 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:44:03 | INFO     | analysis.imbalances.analyzer:__init__:50 | Инициализация анализатора имбалансов
+2026-01-15 22:44:03 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:44:03 | INFO     | analysis.orderbook.analyzer:__init__:57 | Инициализация анализатора стакана
+2026-01-15 22:44:03 | INFO     | analysis.probability_calculator:__init__:54 | Инициализация калькулятора вероятности
+2026-01-15 22:44:03 | INFO     | analysis.probability_calculator:__init__:55 | Веса модулей: Тех.анализ 20%, Паттерны 25%, Эллиот 15%
+2026-01-15 22:44:03 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:44:03 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:44:03 | INFO     | data.history:__init__:46 | Инициализация исторических данных. Директория: C:\Users\vladp\Desktop\futures_bot\data\historical
+2026-01-15 22:44:03 | INFO     | analysis.analyzer:__init__:34 | Инициализация комплексного анализатора рынка
+2026-01-15 22:44:03 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (15m) за 30 дней...
+2026-01-15 22:44:04 | DEBUG    | core.api_client:_cache_instrument:124 | Кэширован: IMOEXF -> FUTIMOEXF000
+2026-01-15 22:44:07 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 1251 строк, 28 колонок
+2026-01-15 22:44:07 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_15m.pkl
+2026-01-15 22:44:07 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 1251 свечей для IMOEXF (15m)
+2026-01-15 22:44:07 | DEBUG    | analysis.patterns.basic_patterns:detect_all_patterns:96 | Обнаружено 4 паттернов (из 4 возможных)
+2026-01-15 22:44:07 | DEBUG    | analysis.elliott.waves:analyze:113 | Волновой анализ: Импульс 5-3-5, уверенность: 80.0%, сигнал: NEUTRAL
+2026-01-15 22:44:07 | DEBUG    | analysis.gaps.analyzer:analyze:119 | Анализ гэпов: найдено 6 гэпов, сигнал: NEUTRAL, уверенность: 63.0%
+2026-01-15 22:44:07 | DEBUG    | analysis.imbalances.analyzer:analyze:108 | Анализ имбалансов: найдено 1337 имбалансов, сигнал: BUY, сила: 64.0%
+2026-01-15 22:44:07 | DEBUG    | analysis.orderbook.analyzer:analyze:107 | Анализ стакана IMOEXF: спред 0.20%, имбаланс +9.1%, сигнал: NEUTRAL
+2026-01-15 22:44:07 | DEBUG    | analysis.probability_calculator:calculate_probability:92 | Начало расчета вероятности
+2026-01-15 22:44:07 | DEBUG    | analysis.probability_calculator:calculate_probability:112 | Корректировка вероятности из-за низкой согласованности: 41.35%
+2026-01-15 22:44:07 | INFO     | analysis.probability_calculator:calculate_probability:137 | Рассчитана вероятность: 13.3% (Категория: NONE, Согласованность: 41%)
+2026-01-15 22:44:07 | INFO     | analysis.analyzer:comprehensive_analysis:135 | ✅ Анализ IMOEXF 15m завершен. Вероятность: 13.3%, Сигнал: NEUTRAL
+2026-01-15 22:44:07 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1h) за 30 дней...
+2026-01-15 22:44:07 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 333 строк, 28 колонок
+2026-01-15 22:44:07 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_1h.pkl
+2026-01-15 22:44:07 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 333 свечей для IMOEXF (1h)
+2026-01-15 22:44:07 | DEBUG    | analysis.patterns.basic_patterns:detect_all_patterns:96 | Обнаружено 2 паттернов (из 2 возможных)
+2026-01-15 22:44:07 | DEBUG    | analysis.elliott.waves:analyze:113 | Волновой анализ: Импульс 5-3-5, уверенность: 80.0%, сигнал: NEUTRAL
+2026-01-15 22:44:07 | DEBUG    | analysis.gaps.analyzer:analyze:119 | Анализ гэпов: найдено 5 гэпов, сигнал: NEUTRAL, уверенность: 60.0%
+2026-01-15 22:44:07 | DEBUG    | analysis.imbalances.analyzer:analyze:108 | Анализ имбалансов: найдено 381 имбалансов, сигнал: BUY, сила: 41.7%
+2026-01-15 22:44:07 | DEBUG    | analysis.orderbook.analyzer:analyze:107 | Анализ стакана IMOEXF: спред 0.20%, имбаланс +9.1%, сигнал: NEUTRAL
+2026-01-15 22:44:07 | DEBUG    | analysis.probability_calculator:calculate_probability:92 | Начало расчета вероятности
+2026-01-15 22:44:07 | DEBUG    | analysis.probability_calculator:calculate_probability:112 | Корректировка вероятности из-за низкой согласованности: 40.66%
+2026-01-15 22:44:07 | INFO     | analysis.probability_calculator:calculate_probability:137 | Рассчитана вероятность: 11.8% (Категория: NONE, Согласованность: 41%)
+2026-01-15 22:44:07 | INFO     | analysis.analyzer:comprehensive_analysis:135 | ✅ Анализ IMOEXF 1h завершен. Вероятность: 11.8%, Сигнал: NEUTRAL
+2026-01-15 22:44:07 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (4h) за 30 дней...
+2026-01-15 22:44:08 | DEBUG    | data.history:_enrich_data:295 | Данные обогащены: 107 строк, 28 колонок
+2026-01-15 22:44:08 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_4h.pkl
+2026-01-15 22:44:08 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 107 свечей для IMOEXF (4h)
+2026-01-15 22:44:08 | DEBUG    | analysis.patterns.basic_patterns:detect_all_patterns:96 | Обнаружено 2 паттернов (из 2 возможных)
+2026-01-15 22:44:08 | DEBUG    | analysis.elliott.waves:analyze:113 | Волновой анализ: Импульс 5-3-5, уверенность: 80.0%, сигнал: NEUTRAL
+2026-01-15 22:44:08 | DEBUG    | analysis.gaps.analyzer:analyze:119 | Анализ гэпов: найдено 3 гэпов, сигнал: NEUTRAL, уверенность: 39.0%
+2026-01-15 22:44:08 | DEBUG    | analysis.imbalances.analyzer:analyze:108 | Анализ имбалансов: найдено 132 имбалансов, сигнал: BUY, сила: 44.9%
+2026-01-15 22:44:08 | DEBUG    | analysis.orderbook.analyzer:analyze:107 | Анализ стакана IMOEXF: спред 0.20%, имбаланс +9.1%, сигнал: NEUTRAL
+2026-01-15 22:44:08 | DEBUG    | analysis.probability_calculator:calculate_probability:92 | Начало расчета вероятности
+2026-01-15 22:44:08 | DEBUG    | analysis.probability_calculator:calculate_probability:112 | Корректировка вероятности из-за низкой согласованности: 40.72%
+2026-01-15 22:44:08 | INFO     | analysis.probability_calculator:calculate_probability:137 | Рассчитана вероятность: 12.5% (Категория: NONE, Согласованность: 41%)
+2026-01-15 22:44:08 | INFO     | analysis.analyzer:comprehensive_analysis:135 | ✅ Анализ IMOEXF 4h завершен. Вероятность: 12.4%, Сигнал: BUY
+2026-01-15 22:44:08 | INFO     | data.history:load_data:73 | Загрузка данных IMOEXF (1d) за 30 дней...
+2026-01-15 22:44:09 | WARNING  | data.history:_enrich_data:214 | Недостаточно данных для обогащения: 27 строк
+2026-01-15 22:44:09 | DEBUG    | data.history:_save_to_file:335 | Данные сохранены в файл: C:\Users\vladp\Desktop\futures_bot\data\historical\IMOEXF_1d.pkl
+2026-01-15 22:44:09 | INFO     | utils.logger:_custom_success:94 | ✅ Загружено 27 свечей для IMOEXF (1d)
+2026-01-15 22:44:09 | DEBUG    | analysis.patterns.basic_patterns:detect_all_patterns:96 | Обнаружено 0 паттернов (из 0 возможных)
+2026-01-15 22:44:09 | DEBUG    | analysis.gaps.analyzer:analyze:119 | Анализ гэпов: найдено 1 гэпов, сигнал: BUY, уверенность: 33.0%
+2026-01-15 22:44:09 | DEBUG    | analysis.imbalances.analyzer:analyze:108 | Анализ имбалансов: найдено 28 имбалансов, сигнал: SELL, сила: 43.6%
+2026-01-15 22:44:09 | DEBUG    | analysis.orderbook.analyzer:analyze:107 | Анализ стакана IMOEXF: спред 0.20%, имбаланс +9.1%, сигнал: NEUTRAL
+2026-01-15 22:44:09 | DEBUG    | analysis.probability_calculator:calculate_probability:92 | Начало расчета вероятности
+2026-01-15 22:44:09 | DEBUG    | analysis.probability_calculator:calculate_probability:112 | Корректировка вероятности из-за низкой согласованности: 36.34%
+2026-01-15 22:44:09 | INFO     | analysis.probability_calculator:calculate_probability:137 | Рассчитана вероятность: 6.2% (Категория: NONE, Согласованность: 36%)
+2026-01-15 22:44:09 | INFO     | analysis.analyzer:comprehensive_analysis:135 | ✅ Анализ IMOEXF 1d завершен. Вероятность: 6.2%, Сигнал: SELL

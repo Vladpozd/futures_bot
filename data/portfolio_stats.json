@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-01-15",
+    "initial_deposit": 10000.0,
+    "current_deposit": 10000.0,
+    "daily_pnl": 0.0,
+    "total_pnl": 0.0,
+    "total_commissions": 0.0,
+    "vm_accruals": 0.0,
+    "open_positions": 0,
+    "closed_positions": 0,
+    "win_rate": 0.0
+  }
+]
